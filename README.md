@@ -1,5 +1,6 @@
 # Java를 이용한 회원관리 프로그램
 
+ - IDE : Eclipse
  - DB : H2 사용
  - DBMS : JDBC 사용
  - 콘솔을 통해 아이디(MEMBER_ID), 이름(NAME), 전화번호(PHONE_NUMBER)를 받아 회원가입 절차를 진행
@@ -28,3 +29,12 @@
  - 무한루프를 돌면서 사용자가 입력한 메뉴 정보를 읽어들이는 readMenu() 메소드를 구현
 
  <img src = "https://user-images.githubusercontent.com/102512612/197381338-ecbe3459-cd42-4690-b02b-e12aaa1491e6.png"/>
+
+## 프로그램 실행 과정
+
+### 1) 프로그램 시작
+
+ - 프로그램을 실행하면 다음과 같은 메뉴가 출력된다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197381873-8a423793-258d-45f5-b9f4-1828edb80a8a.png"/>
+
