@@ -75,7 +75,7 @@ public class MemberDAO {
 			if(rs.next()) {
 				System.out.println("\t\t" + "### MemberList ###");
 				do {
-					System.out.print("\t" + "[" + rs.getString("MEMBER_ID") + " : ");
+					System.out.print("[" + rs.getString("MEMBER_ID") + " : ");
 					System.out.print(rs.getString("NAME") + " : ");
 					System.out.print(rs.getString("PHONE_NUMBER") + "]" + "\n");	
 					}

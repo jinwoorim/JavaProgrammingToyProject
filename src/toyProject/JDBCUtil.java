@@ -13,7 +13,7 @@ public class JDBCUtil {
 		try {
 					
 			DriverManager.registerDriver(new org.h2.Driver());
-			String jdbcUrl = "jdbc:h2:tcp://localhost/~/test";
+			String jdbcUrl = "jdbc:h2:tcp://localhost/~/test1";
 			conn = DriverManager.getConnection(jdbcUrl, "sa", "");
 		} catch (SQLException e) {
 			e.printStackTrace();

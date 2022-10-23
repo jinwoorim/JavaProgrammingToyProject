@@ -38,3 +38,44 @@
 
  <img src = "https://user-images.githubusercontent.com/102512612/197381873-8a423793-258d-45f5-b9f4-1828edb80a8a.png"/>
 
+### 2) 회원 목록 출력
+
+ - 사용자가 1번 메뉴를 입력하면 회원 목록을 출력한다.
+ - 하지만, 등록된 회원이 없다면 다음과 같이 등록된 회원이 없다는 메시지를 출력한다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382077-ecb65ef9-7bf5-4e36-9350-636535961c9d.png"/>
+
+ - 만약 등록된 회원 목록이 있다면 정상적으로 회원 목록을 출력한다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382331-1890ab88-c14a-4ba9-b26e-db77a6c1ca0f.png"/>
+
+### 3) 회원 가입
+
+ - 사용자가 2번 메뉴를 입력하면 회원 가입 기능을 실행한다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382535-b15f8bf1-34e0-43b5-9dd5-e34ef9c2423a.png"/>
+
+ - 회원 가입 후 회원 목록을 출력해보면 회원이 정상적으로 가입되었음을 알 수 있다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382614-b49de71c-1aba-4ef0-80ce-6153dcdf7cd7.png"/>
+
+### 4) 회원 수정
+
+ - 사용자가 3번 메뉴를 입력하면 회원 수정(전화번호 수정) 기능을 실행한다
+ - 수정 후 회원 목록을 출력해보면 정상적으로 회원의 전화번호가 수정되었음을 알 수 있다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382741-5020531c-9c2d-434a-8c70-b3d7e53673f1.png"/>
+
+### 5) 회원 삭제
+
+ - 사용자가 4번 메뉴를 입력하면 회원 삭제 기능을 실행한다
+ - 삭제 후 회원 목록을 출력해보면 정상적으로 회원이 삭제되었음을 알 수 있다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382834-57c8370f-cd56-4d50-baae-b63d98a8b3a4.png"/>
+
+### 6) 프로그램 종료
+
+ - 사용자가 0번 메뉴를 입력하면 다음 메시지를 출력하고 프로그램을 종료한다
+
+ <img src = "https://user-images.githubusercontent.com/102512612/197382902-401bda63-b6bd-4214-a78e-a3e917edadb3.png"/>
+
